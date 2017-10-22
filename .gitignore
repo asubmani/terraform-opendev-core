@@ -4,3 +4,10 @@
 
 # Module directory
 .terraform/
+
+# K8s config
+*.config
+*.pem
+
+# Secrets
+.envrc
